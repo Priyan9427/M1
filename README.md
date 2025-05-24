@@ -213,6 +213,9 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 ## PROGRAM:
 
 
+
+
+
 ```
 #include <stdio.h>
 int main()
@@ -236,7 +239,12 @@ int main()
 
 
 
+
+
+
 ## OUTPUT:
+
+
 
 
 
@@ -255,6 +263,10 @@ int main()
 
 
 
+
+
+
+
 ## RESULT:
 
 
@@ -262,7 +274,19 @@ int main()
 
 
 
+
+
+
+
+
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
+
+
+
+
+
+
+
 
 
 
